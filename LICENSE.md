@@ -1,4 +1,4 @@
-Nyx-License is a license for All Repositories shared under ALL of my GitHub accounts;
+Nyx-License is a license for All Repositories shared under ALL of my GitHub accounts and ALL of my websites;
 
 https://github.com/ClickClickDerk?tab=repositories
 https://github.com/nyx4d?tab=repositories
